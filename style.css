@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+#foto{
+    border-radius: 60%;
+}
+
+#nome{
+    font-family: 'Staatliches', cursive;
+    font-size: 45px;
+}
+
+#quote{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size: 30px;
+}
