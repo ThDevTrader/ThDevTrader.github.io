@@ -1,8 +1,13 @@
 *{
     font-family: 'Montserrat', sans-serif;
+    color: white;
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/21/39/e0/2139e0405ae392726363954e18afa342.jpg");
 }
 
 .welcome_box{
@@ -44,4 +49,8 @@ h3{
     color: black;
     padding: 10px;
     margin: 5px;
+}
+
+.quote{
+    font-family: monospace;
 }
